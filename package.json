@@ -92,7 +92,7 @@
     "sylvester": "0.0.21",
     "ts-node": "10.9.2",
     "typescript": "5.5.3",
-    "webpack": "5.92.1",
+    "webpack": "5.94.0",
     "zeros": "1.0.0"
   },
   "type": "module",
